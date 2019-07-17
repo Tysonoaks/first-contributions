@@ -11850,7 +11850,6 @@ Bailey Wong
 - [kachomsky](https://github.com/kachomsky)
 - [Janet Yu](https://github.com/janet-yu)
 - [Saiakash](https://github.com/sal2701))
-- Bob2
 - [Joao Salgado](https://github.com/joao-salgado)
 - [Michele Bernini](https://github.com/mbernini)
 - [Daniel Tunde Ojediran](https://github.com/tundeojediran)
