@@ -793,6 +793,7 @@ Aryan Gupta (@withoutwaxaryan)
 - [Badyal Suresh Rahul] (https://github.com/rali20)
 Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Colin Trezise (https://github.com/ColTrez)
+- Random Coder
 - Aashish Rathi (https://github.com/aashishrathi)
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
@@ -11849,6 +11850,7 @@ Bailey Wong
 - [kachomsky](https://github.com/kachomsky)
 - [Janet Yu](https://github.com/janet-yu)
 - [Saiakash](https://github.com/sal2701))
+- Bob2
 - [Joao Salgado](https://github.com/joao-salgado)
 - [Michele Bernini](https://github.com/mbernini)
 - [Daniel Tunde Ojediran](https://github.com/tundeojediran)
